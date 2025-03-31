@@ -5,7 +5,8 @@
 - Element3
 
 
-| Nom      | Edat | Ciutat     |
+| Nom      | Edat | Ciutat    |
 |----------|------|-----------|
-| Anna     | 25   | Barcelona |
-| Marc     | 30   | Girona    |
+| Roger    | 17   | Barcelona |
+| Guiugal  | 18   | Girona    |
+| Ñortoll  | 19   |Tarragona  |
