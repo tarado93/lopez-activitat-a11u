@@ -11,3 +11,20 @@
 ## Formació  
 - Grau en Informàtica  
 - ESO 
+
+## Experiència professional  
+
+### Empresa 1
+- Biblioteca de Vilanova 
+
+#### Localitat 
+- Vilanova del Vallès
+
+#### Periode
+- 2024-25
+
+#### Tasques
+
+- Base de dades
+- Ordenar llibres
+
