@@ -28,3 +28,10 @@
 - Base de dades
 - Ordenar llibres
 
+## Idiomes
+
+| Idioma  | Nivell  |  
+|---------|-------- |  
+| Català  | Natiu   |  
+| Castellà| Natiu   |  
+| Anglès  | Alt     | 
