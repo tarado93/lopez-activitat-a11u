@@ -7,3 +7,7 @@
 | Cognoms    | López Pintor         |  
 | Pueblo     | Vilanova del Vallès  |  
 | Edad       | 17                   |  
+
+## Formació  
+- Grau en Informàtica  
+- ESO 
